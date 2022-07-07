@@ -1,0 +1,32 @@
+.filter-container{
+	width: 80%;
+	margin: auto;
+}
+.filter-form{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+label{
+	padding: 0.5rem;
+	font-weight: bold;
+	color: rgba(39, 37, 37, 0.911);
+}
+.submit-btn{
+	margin: 0;
+	padding: 0 1rem;
+	margin-left: 6rem;
+	font-size: larger;
+	color: teal;
+	font-weight: 700;
+	border: 2px solid teal;
+	background: rgba(0, 128, 128, 0.222);
+}
+.card-container	{
+	width: 80%;
+	margin: 2rem auto;
+	display: flex;
+	flex-flow: row;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+}

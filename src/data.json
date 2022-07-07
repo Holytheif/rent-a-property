@@ -1,0 +1,2459 @@
+[
+    {
+        "id": "62c66f3118b56c9f90e4e648",
+        "price": 1174,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31de205611558c8ec7",
+        "price": 6227,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31a9877dde3adc8a42",
+        "price": 920,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3189d8280290577d46",
+        "price": 2794,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3161e2a4f27eec68e2",
+        "price": 1080,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31741ce2691e790c7c",
+        "price": 5125,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3159b363d950e8162a",
+        "price": 566,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31ae955c41def463d9",
+        "price": 1846,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31c3c084d63348878b",
+        "price": 1827,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3166da942eff2c8337",
+        "price": 6029,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31532464c592e0f724",
+        "price": 2120,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3116ae364ea1ce027d",
+        "price": 1756,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f316baf914336755035",
+        "price": 5728,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31945bd17c11aefb3a",
+        "price": 769,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3153d59bb051763d70",
+        "price": 3117,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f318df0c4829ecf4857",
+        "price": 4033,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f316ec40cb6c9f3383f",
+        "price": 6420,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3161402d6e9bf6fec5",
+        "price": 7942,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31e28b0a7f33a551de",
+        "price": 7118,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31ba321791af168cf5",
+        "price": 4532,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f311c43b63acf9dae57",
+        "price": 5969,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31c77e54d77b8c0f23",
+        "price": 7549,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31637720b817d29a6f",
+        "price": 3396,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f314fe404d9aa151c0f",
+        "price": 2905,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f312bcd5caabfab0b72",
+        "price": 7121,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3193144393e046670a",
+        "price": 7531,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3138cf6289646618cf",
+        "price": 6159,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3120d6bfe457528c1d",
+        "price": 3235,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31a5baa5e6958f1d0a",
+        "price": 5336,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f313417cac2bf3039ee",
+        "price": 1033,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f318b0a25188c6243fc",
+        "price": 6615,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f315925da187efee1ef",
+        "price": 7729,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3195b7488e61c57cf3",
+        "price": 6984,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f316aeaaf63ad4d8f55",
+        "price": 6752,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31423d88eda5a79d7a",
+        "price": 5166,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f311beb06b08fe58f7b",
+        "price": 5544,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f315340c061718b6705",
+        "price": 5179,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f314c1334b07ecae67a",
+        "price": 3063,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f314a58768fc1c20380",
+        "price": 5229,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31b9cb4cd6ea53e656",
+        "price": 3737,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f313dc5f4a31a6aeeb7",
+        "price": 6756,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f318b5cd3314ae69ef7",
+        "price": 4232,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3141731b0437d8d011",
+        "price": 2463,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31094e6fd228226c84",
+        "price": 6198,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f314af8b39c34cc91a3",
+        "price": 7542,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3113ddcf97489dbb03",
+        "price": 6048,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31afa8b87082395092",
+        "price": 3901,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f317ce4bb50ba01a329",
+        "price": 3331,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3140bcc738151c0654",
+        "price": 6526,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3153eced313acd3f12",
+        "price": 7929,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3167139cb90c9bc335",
+        "price": 2263,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3174f6846c5f5e0870",
+        "price": 7200,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3177d46d63db711b41",
+        "price": 2205,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31d0e003ad821dc61b",
+        "price": 86,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31a7c00eeb0b5245eb",
+        "price": 6197,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31805d77ffa025ff57",
+        "price": 5416,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31698d31a9a10161fc",
+        "price": 6176,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f313a4ac15dd83dce44",
+        "price": 5515,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31557f25c76b9e2c0a",
+        "price": 5009,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31645f381e7e91dd3b",
+        "price": 5847,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f315c94d6e3415b5494",
+        "price": 555,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3182e60f6adcec5c35",
+        "price": 6172,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31761efb0f771c8dc8",
+        "price": 4271,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f317f9a9f4a32f73f51",
+        "price": 1938,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f318e46fc474a2da52a",
+        "price": 5914,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f310d2eab51cf8649f5",
+        "price": 3314,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3115d66e73d261d1ab",
+        "price": 2002,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f317e4a919de54cd1e9",
+        "price": 1105,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31df8f81e1fe3a5a65",
+        "price": 1038,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f312c5a0cf97faa5e87",
+        "price": 6381,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31905e3a2241d79d61",
+        "price": 3299,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f318e3c0f276dd176f9",
+        "price": 1436,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31a27e4278d20fb1c5",
+        "price": 2320,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31599854888a2a710b",
+        "price": 1798,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3194c144c57f64a858",
+        "price": 457,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31a0c8332de6016efd",
+        "price": 162,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f313007d3725e1db71e",
+        "price": 6585,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f316731e3d07d48b2e4",
+        "price": 2024,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3196145fd22cd50f79",
+        "price": 3707,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31f9d79039bf3b6421",
+        "price": 3282,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f311f4b7147e77edfd5",
+        "price": 3407,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31e799d2aea691fa72",
+        "price": 6304,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31fefad62f5672c4b5",
+        "price": 952,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f316f08cf9d1b6ac403",
+        "price": 2321,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31429705dd9b551633",
+        "price": 6353,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31ddb357d981b3a8de",
+        "price": 3522,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31d9111362a9c6ac6c",
+        "price": 4009,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f319768a438f0eba34c",
+        "price": 6527,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31b1338615e25145d4",
+        "price": 6014,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31f1bee401df0a7a59",
+        "price": 6923,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f312d1f15edf69061c5",
+        "price": 5547,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31353786725eb15fd0",
+        "price": 4680,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31351557307f028316",
+        "price": 3733,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3167b010c1c9a664bc",
+        "price": 5180,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31b30781d32ae32b4b",
+        "price": 811,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f315d2238d3da72ee7c",
+        "price": 5134,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31c723c5603a39bb68",
+        "price": 3608,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31b260621972b21bae",
+        "price": 2417,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f312d1a54067b4e7787",
+        "price": 73,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f315b35077cbc5e0771",
+        "price": 4126,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31087b04e1d455be3e",
+        "price": 7670,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31e30c59612e8d5f95",
+        "price": 7951,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31921732d6f8c87e4b",
+        "price": 7088,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31efdf58b53f1200b4",
+        "price": 5222,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f315dc6e4bec31de8ce",
+        "price": 1428,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3175cb5bbb6e6b446b",
+        "price": 4527,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f316893a950b47cbaf1",
+        "price": 3288,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3164c435e50ab9c631",
+        "price": 120,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31cf5e07139b967636",
+        "price": 4051,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f318ec37277907d17af",
+        "price": 881,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31af9c42df17939332",
+        "price": 1124,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31b017663686ca31cd",
+        "price": 7100,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31c9bee3a870d16c7f",
+        "price": 2772,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f313573eba1209ad124",
+        "price": 6286,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31f65257b98b01d454",
+        "price": 7289,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31a7e26c5e1e9e77e7",
+        "price": 6369,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31e056588ea07ab468",
+        "price": 3162,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31ba3780d62fb06af1",
+        "price": 1379,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3150f49b3fe6be85a8",
+        "price": 1636,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f319576dac33a45687b",
+        "price": 783,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f310412937c078ad7b5",
+        "price": 2060,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31bbd5b61393f08949",
+        "price": 1635,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31c84fb9a8a3bb85ea",
+        "price": 7015,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3110b6e91dff82625b",
+        "price": 2397,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f319a8e09b429b38c89",
+        "price": 2900,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f310223fd31b95bb90e",
+        "price": 412,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31643331a23f092e63",
+        "price": 3463,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f315445db7220bddc3e",
+        "price": 1090,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3127ce1043ed0e72e4",
+        "price": 2134,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f315a094f3314827e64",
+        "price": 3952,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31b8940bd0a6f9ab93",
+        "price": 869,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f310939a35401202039",
+        "price": 7503,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31df5e8458ecbba3e7",
+        "price": 4560,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f314ffd633df5c9c454",
+        "price": 4202,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f314496b93994fb653f",
+        "price": 2224,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31badbe1bd3d0a4596",
+        "price": 4652,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f310aa84583970f4a2f",
+        "price": 1723,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31f0e8df0a2b8d0d92",
+        "price": 1143,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f318026fbd40ffc41c5",
+        "price": 3027,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f311a897dfcc059d90d",
+        "price": 7779,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31d3b35fca6db9224c",
+        "price": 3967,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31d50a75488d4eda67",
+        "price": 6793,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3135a0b8a704861f2b",
+        "price": 5247,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f317659466d24c65b9a",
+        "price": 3205,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3101446687382132d3",
+        "price": 2523,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31444582c6d5736336",
+        "price": 7558,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31c14ca8ed34821626",
+        "price": 5647,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3174dfb5a117962c1a",
+        "price": 5999,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3198c47735791ec0e1",
+        "price": 4319,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f311ee3648beac06385",
+        "price": 671,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3156d19b4c86e1103c",
+        "price": 4572,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3126a15dfea97ea5d1",
+        "price": 2993,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3183b31f0806ebbe80",
+        "price": 7313,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f310f4a07e907d459fd",
+        "price": 5318,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3110b8ffcf65e4ab56",
+        "price": 5074,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3187dd19a79588b06c",
+        "price": 7141,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f312b6af1a47dccc491",
+        "price": 6590,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3176b074519e292ef5",
+        "price": 2315,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31fced56403698c76b",
+        "price": 4301,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f314fd651d1e252f3a2",
+        "price": 2150,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f314c5ff3d984de4306",
+        "price": 3853,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f314d21e43177218a4e",
+        "price": 6178,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f311732b5541fe8c498",
+        "price": 4029,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31de205cff4ad53245",
+        "price": 3394,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f315bf941053a96cebf",
+        "price": 4490,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3163dbdc7765080cbb",
+        "price": 5704,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31a0615d0cdbd8d0b3",
+        "price": 7920,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f314cbd6292c6fd1ce3",
+        "price": 1676,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31d3fdaada5097ecdd",
+        "price": 934,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3176bec6b965dce050",
+        "price": 2252,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31a90174ee72137325",
+        "price": 2534,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31a595b3b6e14b36f1",
+        "price": 2763,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31441b5fb25249aafa",
+        "price": 6257,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3135810ac29af17a57",
+        "price": 527,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f310e8e9b9fa40bd524",
+        "price": 343,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f310be9977e87e373c0",
+        "price": 2972,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31f2679682b9708518",
+        "price": 6924,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31ea87dff17d6c21b6",
+        "price": 4110,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3181ced829d0b50c68",
+        "price": 3294,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31998a2cc95abd37b7",
+        "price": 1614,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f318d125c8b88f926a7",
+        "price": 549,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f317a11659d6b306c0c",
+        "price": 1864,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3135b64d2d5bae31a8",
+        "price": 2336,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f318a66153456a6e2f8",
+        "price": 3833,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31275367820e45b598",
+        "price": 1280,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f319b39f38634e80888",
+        "price": 3719,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31ec8c58278f5ecf9b",
+        "price": 4796,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f314b56b60cea23bde0",
+        "price": 6859,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3110cc93e637dc00f1",
+        "price": 5679,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f317cf0b4545c6f1f38",
+        "price": 6554,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f314e09ea9485d55068",
+        "price": 1844,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3160effc525438afea",
+        "price": 2975,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f310d719a5f070065ed",
+        "price": 2921,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31e142815cb4e1e319",
+        "price": 4077,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31e9ebb38ae497761f",
+        "price": 7033,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31097da08e57a729bb",
+        "price": 5497,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31ec612e73b12e9aa8",
+        "price": 4450,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3110023b05a9065237",
+        "price": 3499,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3133995d4565953ce0",
+        "price": 5318,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31d249e0cc563ddbfc",
+        "price": 1969,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f310e34f6abf4f7361b",
+        "price": 6004,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3187f7549ab25322bd",
+        "price": 3806,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f310ab41fd8a53409a1",
+        "price": 3983,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3112fc9295ed1de96f",
+        "price": 6393,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3110cc59a1761d8788",
+        "price": 4627,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31521c007ed503a533",
+        "price": 5059,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31a52328633760bdeb",
+        "price": 627,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f319faac29267cbf163",
+        "price": 206,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3181a6b1d96adc005c",
+        "price": 3057,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31c91cee00c5b8dc27",
+        "price": 7279,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31fd95f9caa2a38638",
+        "price": 2855,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31064206fcfb0b7635",
+        "price": 936,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31e2b86b711af9d925",
+        "price": 841,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31e71b00f1cf5e8710",
+        "price": 1223,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f314c39f6db2b0bf915",
+        "price": 2848,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31d034c288f62e78ae",
+        "price": 5907,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31967154c1ba98e161",
+        "price": 1923,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31f97fdf626b561878",
+        "price": 7250,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31888222413473f6d4",
+        "price": 2089,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f312be1c0d077953d84",
+        "price": 4432,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31741463a3e152c178",
+        "price": 6687,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f313ff4ff5fdbdea170",
+        "price": 2331,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31ed9dc86b5da6e6ff",
+        "price": 1557,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31c185ea598eaa5372",
+        "price": 5987,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3160b150d7ff29de23",
+        "price": 4611,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31e44b8d664b878a34",
+        "price": 5725,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f316246ddf0a2c48d85",
+        "price": 2942,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31ae0f54abf7a19ef0",
+        "price": 7708,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f318dec37603db5d0cb",
+        "price": 4869,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31d27db32c5673c635",
+        "price": 1762,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31dd0d335730dae8e8",
+        "price": 6012,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f313643fa3d7f3ccdd9",
+        "price": 7180,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f312100aac88eaa6980",
+        "price": 3401,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31d1c4550b384f3f83",
+        "price": 7626,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f310418b79ec87b68db",
+        "price": 493,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3197b4c0394bb11f41",
+        "price": 7548,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31db2f46d95e879d20",
+        "price": 5266,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f316b802beed20b16fd",
+        "price": 4066,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31dd028e6d1d5e45d4",
+        "price": 1306,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31f70d15d79d9db4da",
+        "price": 2804,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31a0b497fa8f7cfbb7",
+        "price": 1596,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31a4abcd21d4bbf445",
+        "price": 4501,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f318caaefdbbbe18fab",
+        "price": 921,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31df990d11ce12ddd2",
+        "price": 3578,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f318020b7103b3d0855",
+        "price": 5281,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f317c9f56629ad40982",
+        "price": 2100,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f312f80fdf570d3867f",
+        "price": 5344,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31a987fbedef8b36fc",
+        "price": 6972,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31b50806eea94d818d",
+        "price": 7466,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31243726cc2f431236",
+        "price": 4476,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31e76a1ae8a0633776",
+        "price": 1314,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3188c963d2c3384b48",
+        "price": 3536,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3157aceec47a752ac8",
+        "price": 2557,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31684d8ca2d4337a62",
+        "price": 6090,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f319eb28136ecba8aa2",
+        "price": 334,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3186cb646b941bb1b6",
+        "price": 384,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3196803af5c5135760",
+        "price": 7276,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31d705e83262e04e87",
+        "price": 775,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31ac14a35acb3b88b2",
+        "price": 6013,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31983aa1a29447c2ec",
+        "price": 6908,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31c7fbf0ae142e8a29",
+        "price": 5669,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31ad4fa1936c9801af",
+        "price": 2238,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31d5343db253424ef5",
+        "price": 3928,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f313d63ff2bb5758d68",
+        "price": 4002,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31930d5deea30af1a8",
+        "price": 5440,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f3187ee435bb2cc45ee",
+        "price": 1502,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31c5a063c75a55552d",
+        "price": 7109,
+        "time": "this-month",
+        "location": "delhi",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f310aa6c0fbf99d8149",
+        "price": 6075,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31a1175314578d89cd",
+        "price": 5832,
+        "time": "next-month",
+        "location": "delhi",
+        "address": "Pr 120 Bo Maravilla Sur K M # 335, Las Marias, PR, 00670",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31baf10b3838c54610",
+        "price": 778,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31813af11e1b5ac0b9",
+        "price": 210,
+        "time": "this-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f31d578e52fc7e37146",
+        "price": 5500,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Sector Yahuecas Titulo # V84, Adjuntas, PR, 00601",
+        "type": "shops",
+        "img": "./assets/house.jpg"
+    },
+    {
+        "id": "62c66f310fbc29add4ee575c",
+        "price": 4020,
+        "time": "next-month",
+        "location": "newyork",
+        "address": "Km 78 9 Carr # 135, Adjuntas, PR, 00601",
+        "type": "house",
+        "img": "./assets/house.jpg"
+    }
+]

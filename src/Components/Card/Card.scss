@@ -1,0 +1,30 @@
+.card {
+	width: 300px;
+	border: 2px solid black;
+	margin: 1rem 0;
+	img{
+		width: 296px;
+		margin: auto;
+	}
+	p {
+		margin: 0.25rem;
+	}
+}
+#type {
+	text-transform: capitalize;
+	font-weight: 700;
+	color: rgba(39, 37, 37, 0.82);
+	font-size: 1.25rem;
+}
+#price {
+	font-style: italic;
+	font-weight: 700;
+	color: teal;
+}
+#time {
+	text-transform: capitalize;
+	font-weight: 700;
+}
+#location {
+	text-transform: capitalize;
+}

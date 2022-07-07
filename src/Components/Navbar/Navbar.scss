@@ -1,0 +1,42 @@
+
+.navbar{
+	display: flex;
+	justify-content: space-between;
+	padding: 1rem 2rem;
+	padding-bottom: 0rem;
+	border-bottom: 2px solid rgba(0, 128, 128, 0.385);
+}
+
+.action-container{
+	width: 60%;
+	display: flex;
+	flex-flow: row;
+	justify-content: flex-start;
+}
+.logo-box{
+	display: inline-block;
+	img{
+		width: 80px;
+	}
+}
+button{
+	border: none;
+	background: transparent;
+	outline: none;
+	cursor: pointer;
+	padding: 0.5rem;
+	margin: 0.5rem 1rem;
+	border-radius: 0.25rem;
+}
+button:hover{
+	background: rgba(0, 128, 128, 0.222)
+}
+.active-btn{
+	color: teal;
+	font-weight: 700;
+	background: rgba(0, 128, 128, 0.222);
+}
+.heading{
+	margin: 1rem 6rem;
+	color: rgba(39, 37, 37, 0.82);
+}
