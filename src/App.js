@@ -26,8 +26,8 @@ const reducer = (state, action) => {
   }
 
 let initialState = {
-	"price": 1513,
-	"time": "next-month",
+	"price": 2000,
+	"time": "this-month",
 	"location": "newyork",
 	"address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
 	"type": "house",
