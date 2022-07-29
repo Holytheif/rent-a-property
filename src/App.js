@@ -26,8 +26,8 @@ const reducer = (state, action) => {
   }
 
 let initialState = {
-	"price": 2000,
-	"time": "this-month",
+	"price": 1513,
+	"time": "next-month",
 	"location": "newyork",
 	"address": "F118 Madrid St El Monte Iv Ext # Dev, Ponce, PR, 00731",
 	"type": "house",
@@ -41,7 +41,7 @@ function App() {
 	useEffect(()=>{
 		const filterData = JSONdata.filter((e) => {
 			if (e.location==="newyork" && e.time==="this-month" && e.type==="house" && e.price < 2000){
-				return e
+					return e
 			}
 			return undefined
 		})
